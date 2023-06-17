@@ -1,5 +1,6 @@
 package com.cursojava.curso.controllers;
 
+import com.cursojava.curso.dao.UsuarioDao;
 import com.cursojava.curso.models.Usuario;
 import com.cursojava.curso.utils.JWTUtil;
 import org.springframework.beans.factory.annotation.Autowired;
